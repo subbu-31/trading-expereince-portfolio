@@ -117,5 +117,4 @@ Systematic analysis of 13,866+ equity trades executed on NSE through Zerodha pla
 
 ---
 
-This single-page report effectively summarizes your trading notebook analysis and presents it in a format that recruiters can quickly understand. It highlights both your technical capabilities and financial market expertise, making it perfect to link from your resume or include in job applications for quantitative finance roles.
 
