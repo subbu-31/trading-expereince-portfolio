@@ -77,7 +77,6 @@ Systematic analysis of 13,866+ equity trades executed on NSE through Zerodha pla
 - Advanced DataFrame operations for trade reconciliation
 - Time series analysis for pattern detection
 - Interactive Plotly dashboards for performance visualization
-- Statistical risk metrics (Sharpe ratio, drawdown analysis)
 - Professional reporting with executive-level summaries
 ```
 
