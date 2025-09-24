@@ -109,10 +109,6 @@ Systematic analysis of 13,866+ equity trades executed on NSE through Zerodha pla
 
 ***
 
-**Contact**: [Your Email] | **Portfolio**: [GitHub/LinkedIn Links] | **Analysis Code**: Available upon request
-
-***
-
 *This analysis demonstrates the transition from manual trading to systematic, data-driven approaches essential for modern quantitative finance roles. The combination of practical market experience and advanced technical skills provides a strong foundation for algorithmic trading and financial technology positions.*
 
 ---
